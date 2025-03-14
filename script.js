@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles and metadata
-const songs = ['hey', 'summer', 'maniac', 'PagalWorld', 'ukulele'];
+const songs = ['PagalWorld','hey', 'summer', 'maniac', 'ukulele'];
 let songIndex = 2; // Start at 'ukulele'
 
 // Initially load song details into DOM
