@@ -1,17 +1,7 @@
-
----
-
-## **4️⃣ Music Player**
-**📌 Repository Name:** `CodeAlpha_Music_Player`  
-**📜 Description:** A simple JavaScript-based music player with play, pause, and track navigation functionalities.
-
-### **README.md**
-```markdown
-# CodeAlpha - Music Player 🎵
+# Music Player 🎵
 
 ## 📌 Overview
-This **Music Player** was built as part of my **Frontend Development Internship** at **@CodeAlpha**.  
-It allows users to play, pause, and navigate through audio tracks with a simple UI.
+This **Music Player** was built as a simple JavaScript-based application that allows users to play, pause, and navigate through audio tracks. It features a clean, custom UI and smooth track navigation.
 
 ## 🛠 Technologies Used
 - HTML  
@@ -25,9 +15,9 @@ It allows users to play, pause, and navigate through audio tracks with a simple 
 - Mobile-friendly  
 
 ## 🚀 Live Demo  
-[🔗 GitHub Pages Link (If Hosted)](#)
+[🔗 GitHub Pages Link](https://wwwashishtech.github.io/Music_Player/)
 
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_Music_Player.git
+   git clone https://github.com/yourusername/Music_Player.git
